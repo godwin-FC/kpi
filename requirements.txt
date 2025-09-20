@@ -9,3 +9,4 @@ pillow
 faiss-cpu
 seaborn
 openpyxl
+statsmodels
