@@ -1,16 +1,19 @@
+# Core libraries
 streamlit
 pandas
 numpy
+scipy
 matplotlib
 plotly
 seaborn
 openpyxl
 pillow
 sqlalchemy
-statsmodels
-Cython
-pmdarima
-pystan
-prophet
 faiss-cpu
-auto_arima
+statsmodels
+
+# Forecasting
+Cython          # Required by pmdarima
+pmdarima
+pystan          # Required by Prophet
+prophet
