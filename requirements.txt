@@ -13,3 +13,4 @@ pmdarima
 pystan
 prophet
 faiss-cpu
+auto_arima
