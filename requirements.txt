@@ -3,11 +3,13 @@ pandas
 numpy
 matplotlib
 plotly
-prophet
-sqlalchemy
-pillow
-faiss-cpu
 seaborn
 openpyxl
+pillow
+sqlalchemy
 statsmodels
+Cython
 pmdarima
+pystan
+prophet
+faiss-cpu
