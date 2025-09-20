@@ -8,7 +8,11 @@ import seaborn as sns
 import os
 os.environ['STREAMLIT_SERVER_HEADLESS'] = 'true'
 
-
+st.components.v1.html(
+    '<meta name="google-site-verification" content="XkV6D8KnwJ5lcQsCNB-Wof3fdtHVq64r2rR3ufZN3MA" />',
+    height=0
+)
+ 
 st.set_page_config(page_title="Interactive Inventory & Reorder Dashboard", layout="wide")
 
 # === Base Data ===
