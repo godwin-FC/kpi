@@ -7,3 +7,4 @@ prophet
 sqlalchemy
 pillow
 faiss-cpu
+seaborn
